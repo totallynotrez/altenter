@@ -6,3 +6,6 @@ source code is in tomspells repo already, i just added
 
 # tutorial
 https://youtu.be/mZKHSgZx4Qc
+
+# source
+https://github.com/Zenthial/Alt-Enter-Fix
